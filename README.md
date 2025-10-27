@@ -1,2 +1,1 @@
-# wakama-docs
-Docs &amp; runbooks (spec courte, quickstarts)
+Wakama Docs — specs and runbooks (internal).
